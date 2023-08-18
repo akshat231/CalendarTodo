@@ -33,6 +33,11 @@ Welcome to my React ToDo app! This application allows users to manage their task
   
 5. **Dark Mode:**
     - App also offers the functionality of changing between Dark and Light Mode. Default is Dark Mode.
+  
+6. **State Management:**
+    - Redux has been used to manage global State.
+    - Once the user logs in  his email is stored globally and can be accessed by any page
+    - Also the notes created by the user in stored globally which also can be dynamically accessed on clicking on particular day.
 
 ## Additional Details
 
