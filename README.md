@@ -125,7 +125,7 @@ App is being deployed on https://todoapp-e2257.firebaseapp.com/
 To run the application locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/akshat231/CalendarTodo.git`
-2. Navigate to the project directory: `cd todo-react-app`
+2. Navigate to the project directory: `cd CalendarTodo`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
 
